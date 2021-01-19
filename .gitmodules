@@ -3,3 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bSims"]
+	path = bSims
+	url = https://github.com/psolymos/bsims
+	shallow = true
+[submodule "detect"]
+	path = detect
+	url = https://github.com/psolymos/detect
+	shallow = true
+[submodule "intrval"]
+	path = intrval
+	url = https://github.com/psolymos/intrval
+	shallow = true
+[submodule "mefa"]
+	path = mefa
+	url = https://github.com/psolymos/mefa
+	shallow = true
+[submodule "mefa4"]
+	path = mefa4
+	url = https://github.com/psolymos/mefa4
+	shallow = true
+[submodule "opticut"]
+	path = opticut
+	url = https://github.com/psolymos/opticut
+	shallow = true
+[submodule "pbapply"]
+	path = pbapply
+	url = https://github.com/psolymos/pbapply
+	shallow = true
+[submodule "PVAClone"]
+	path = PVAClone
+	url = https://github.com/psolymos/pvaclone
+	shallow = true
+[submodule "ResourceSelection"]
+	path = ResourceSelection
+	url = https://github.com/psolymos/resourceselection
+	shallow = true
+[submodule "sharx"]
+	path = sharx
+	url = https://github.com/psolymos/sharx
+	shallow = true
