@@ -7,39 +7,49 @@
 	path = bSims
 	url = https://github.com/psolymos/bsims
 	shallow = true
+	registered = true
 [submodule "detect"]
 	path = detect
 	url = https://github.com/psolymos/detect
 	shallow = true
+	registered = true
 [submodule "intrval"]
 	path = intrval
 	url = https://github.com/psolymos/intrval
 	shallow = true
+	registered = true
 [submodule "mefa"]
 	path = mefa
 	url = https://github.com/psolymos/mefa
 	shallow = true
+	registered = true
 [submodule "mefa4"]
 	path = mefa4
 	url = https://github.com/psolymos/mefa4
 	shallow = true
+	registered = true
 [submodule "opticut"]
 	path = opticut
 	url = https://github.com/psolymos/opticut
 	shallow = true
+	registered = true
 [submodule "pbapply"]
 	path = pbapply
 	url = https://github.com/psolymos/pbapply
 	shallow = true
+	registered = true
 [submodule "PVAClone"]
 	path = PVAClone
 	url = https://github.com/psolymos/pvaclone
 	shallow = true
+	registered = true
 [submodule "ResourceSelection"]
 	path = ResourceSelection
 	url = https://github.com/psolymos/resourceselection
 	shallow = true
+	registered = true
 [submodule "sharx"]
 	path = sharx
 	url = https://github.com/psolymos/sharx
 	shallow = true
+	registered = true
