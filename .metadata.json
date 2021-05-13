@@ -1,0 +1,42 @@
+[
+  {
+    "package": "bSims",
+    "oncran": true
+  },
+  {
+    "package": "detect",
+    "oncran": true
+  },
+  {
+    "package": "intrval",
+    "oncran": true
+  },
+  {
+    "package": "mefa",
+    "oncran": true
+  },
+  {
+    "package": "mefa4",
+    "oncran": true
+  },
+  {
+    "package": "opticut",
+    "oncran": true
+  },
+  {
+    "package": "pbapply",
+    "oncran": true
+  },
+  {
+    "package": "PVAClone",
+    "oncran": true
+  },
+  {
+    "package": "ResourceSelection",
+    "oncran": true
+  },
+  {
+    "package": "sharx",
+    "oncran": true
+  }
+]
