@@ -1,11 +1,41 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/psolymos/universe
 	shallow = true
 	branch = HEAD
+[submodule "pbapply"]
+	path = pbapply
+	url = https://github.com/psolymos/pbapply
+	shallow = true
+	registered = true
+[submodule "sharx"]
+	path = sharx
+	url = https://github.com/psolymos/sharx
+	shallow = true
+	registered = true
+[submodule "EDMAinR"]
+	path = EDMAinR
+	url = https://github.com/psolymos/EDMAinR
+	shallow = true
+	registered = true
+[submodule "clickrup"]
+	path = clickrup
+	url = https://github.com/psolymos/clickrup
+	shallow = true
+	registered = true
 [submodule "bSims"]
 	path = bSims
-	url = https://github.com/psolymos/bsims
+	url = https://github.com/psolymos/bSims
+	shallow = true
+	registered = true
+[submodule "WildLift"]
+	path = WildLift
+	url = https://github.com/psolymos/WildLift
+	shallow = true
+	registered = true
+[submodule "opticut"]
+	path = opticut
+	url = https://github.com/psolymos/opticut
 	shallow = true
 	registered = true
 [submodule "detect"]
@@ -18,6 +48,11 @@
 	url = https://github.com/psolymos/intrval
 	shallow = true
 	registered = true
+[submodule "ResourceSelection"]
+	path = ResourceSelection
+	url = https://github.com/psolymos/ResourceSelection
+	shallow = true
+	registered = true
 [submodule "mefa"]
 	path = mefa
 	url = https://github.com/psolymos/mefa
@@ -28,28 +63,58 @@
 	url = https://github.com/psolymos/mefa4
 	shallow = true
 	registered = true
-[submodule "opticut"]
-	path = opticut
-	url = https://github.com/psolymos/opticut
+[submodule "QPAD"]
+	path = QPAD
+	url = https://github.com/psolymos/QPAD
 	shallow = true
 	registered = true
-[submodule "pbapply"]
-	path = pbapply
-	url = https://github.com/psolymos/pbapply
+[submodule "KnockKnockJokes"]
+	path = KnockKnockJokes
+	url = https://github.com/psolymos/KnockKnockJokes
+	shallow = true
+	registered = true
+[submodule "vegan"]
+	path = vegan
+	url = https://github.com/vegandevs/vegan
+	shallow = true
+	registered = true
+[submodule "paired"]
+	path = paired
+	url = https://github.com/borealbirds/paired
+	shallow = true
+	registered = true
+[submodule "lhreg"]
+	path = lhreg
+	url = https://github.com/borealbirds/lhreg
 	shallow = true
 	registered = true
 [submodule "PVAClone"]
 	path = PVAClone
-	url = https://github.com/psolymos/pvaclone
+	url = https://github.com/psolymos/PVAClone
 	shallow = true
 	registered = true
-[submodule "ResourceSelection"]
-	path = ResourceSelection
-	url = https://github.com/psolymos/resourceselection
+[submodule "dclone"]
+	path = dclone
+	url = https://github.com/datacloning/dclone
 	shallow = true
 	registered = true
-[submodule "sharx"]
-	path = sharx
-	url = https://github.com/psolymos/sharx
+[submodule "dcmle"]
+	path = dcmle
+	url = https://github.com/datacloning/dcmle
+	shallow = true
+	registered = true
+[submodule "abmidata"]
+	path = abmidata
+	url = https://github.com/ABbiodiversity/abmidata
+	shallow = true
+	registered = true
+[submodule "allinone"]
+	path = allinone
+	url = https://github.com/ABbiodiversity/allinone
+	shallow = true
+	registered = true
+[submodule "cure4insect"]
+	path = cure4insect
+	url = https://github.com/ABbiodiversity/cure4insect
 	shallow = true
 	registered = true

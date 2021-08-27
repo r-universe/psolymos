@@ -1,6 +1,27 @@
 [
   {
+    "package": "pbapply",
+    "oncran": true
+  },
+  {
+    "package": "sharx",
+    "oncran": true
+  },
+  {
+    "package": "EDMAinR"
+  },
+  {
+    "package": "clickrup"
+  },
+  {
     "package": "bSims",
+    "oncran": true
+  },
+  {
+    "package": "WildLift"
+  },
+  {
+    "package": "opticut",
     "oncran": true
   },
   {
@@ -12,6 +33,10 @@
     "oncran": true
   },
   {
+    "package": "ResourceSelection",
+    "oncran": true
+  },
+  {
     "package": "mefa",
     "oncran": true
   },
@@ -20,23 +45,40 @@
     "oncran": true
   },
   {
-    "package": "opticut",
+    "package": "QPAD"
+  },
+  {
+    "package": "KnockKnockJokes"
+  },
+  {
+    "package": "vegan",
     "oncran": true
   },
   {
-    "package": "pbapply",
-    "oncran": true
+    "package": "paired"
+  },
+  {
+    "package": "lhreg"
   },
   {
     "package": "PVAClone",
     "oncran": true
   },
   {
-    "package": "ResourceSelection",
+    "package": "dclone",
     "oncran": true
   },
   {
-    "package": "sharx",
-    "oncran": true
+    "package": "dcmle",
+    "oncran": false
+  },
+  {
+    "package": "abmidata"
+  },
+  {
+    "package": "allinone"
+  },
+  {
+    "package": "cure4insect"
   }
 ]
