@@ -8,6 +8,11 @@
 	url = https://github.com/psolymos/pbapply
 	shallow = true
 	registered = true
+[submodule "moosecounter"]
+	path = moosecounter
+	url = https://github.com/psolymos/moosecounter
+	shallow = true
+	registered = true
 [submodule "sharx"]
 	path = sharx
 	url = https://github.com/psolymos/sharx
