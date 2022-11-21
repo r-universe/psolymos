@@ -3,6 +3,21 @@
 	url = https://github.com/psolymos/universe
 	shallow = true
 	branch = HEAD
+[submodule "deps"]
+	path = deps
+	url = https://github.com/analythium/deps
+	shallow = true
+	registered = true
+[submodule "rconfig"]
+	path = rconfig
+	url = https://github.com/analythium/rconfig
+	shallow = true
+	registered = true
+[submodule "bananas"]
+	path = bananas
+	url = https://github.com/psolymos/bananas
+	shallow = true
+	registered = true
 [submodule "pbapply"]
 	path = pbapply
 	url = https://github.com/psolymos/pbapply

@@ -1,5 +1,15 @@
 [
   {
+    "package": "deps"
+  },
+  {
+    "package": "rconfig",
+    "oncran": true
+  },
+  {
+    "package": "bananas"
+  },
+  {
     "package": "pbapply",
     "oncran": true
   },
