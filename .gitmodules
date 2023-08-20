@@ -2,84 +2,84 @@
 	path = .registry
 	url = https://github.com/psolymos/universe
 	branch = HEAD
-[submodule "deps"]
-	path = deps
-	url = https://github.com/analythium/deps
-[submodule "rconfig"]
-	path = rconfig
-	url = https://github.com/analythium/rconfig
-[submodule "bananas"]
-	path = bananas
-	url = https://github.com/psolymos/bananas
-[submodule "pbapply"]
-	path = pbapply
-	url = https://github.com/psolymos/pbapply
-[submodule "moosecounter"]
-	path = moosecounter
-	url = https://github.com/psolymos/moosecounter
-[submodule "sharx"]
-	path = sharx
-	url = https://github.com/psolymos/sharx
 [submodule "EDMAinR"]
 	path = EDMAinR
 	url = https://github.com/psolymos/EDMAinR
-[submodule "clickrup"]
-	path = clickrup
-	url = https://github.com/psolymos/clickrup
-[submodule "bSims"]
-	path = bSims
-	url = https://github.com/psolymos/bSims
-[submodule "WildLift"]
-	path = WildLift
-	url = https://github.com/psolymos/WildLift
-[submodule "opticut"]
-	path = opticut
-	url = https://github.com/psolymos/opticut
-[submodule "detect"]
-	path = detect
-	url = https://github.com/psolymos/detect
-[submodule "intrval"]
-	path = intrval
-	url = https://github.com/psolymos/intrval
-[submodule "ResourceSelection"]
-	path = ResourceSelection
-	url = https://github.com/psolymos/ResourceSelection
-[submodule "mefa"]
-	path = mefa
-	url = https://github.com/psolymos/mefa
-[submodule "mefa4"]
-	path = mefa4
-	url = https://github.com/psolymos/mefa4
-[submodule "QPAD"]
-	path = QPAD
-	url = https://github.com/psolymos/QPAD
 [submodule "KnockKnockJokes"]
 	path = KnockKnockJokes
 	url = https://github.com/psolymos/KnockKnockJokes
-[submodule "vegan"]
-	path = vegan
-	url = https://github.com/vegandevs/vegan
-[submodule "paired"]
-	path = paired
-	url = https://github.com/borealbirds/paired
-[submodule "lhreg"]
-	path = lhreg
-	url = https://github.com/borealbirds/lhreg
 [submodule "PVAClone"]
 	path = PVAClone
 	url = https://github.com/psolymos/PVAClone
-[submodule "dclone"]
-	path = dclone
-	url = https://github.com/datacloning/dclone
-[submodule "dcmle"]
-	path = dcmle
-	url = https://github.com/datacloning/dcmle
+[submodule "QPAD"]
+	path = QPAD
+	url = https://github.com/psolymos/QPAD
+[submodule "ResourceSelection"]
+	path = ResourceSelection
+	url = https://github.com/psolymos/ResourceSelection
+[submodule "WildLift"]
+	path = WildLift
+	url = https://github.com/psolymos/WildLift
 [submodule "abmidata"]
 	path = abmidata
 	url = https://github.com/ABbiodiversity/abmidata
 [submodule "allinone"]
 	path = allinone
 	url = https://github.com/ABbiodiversity/allinone
+[submodule "bSims"]
+	path = bSims
+	url = https://github.com/psolymos/bSims
+[submodule "bananas"]
+	path = bananas
+	url = https://github.com/psolymos/bananas
+[submodule "clickrup"]
+	path = clickrup
+	url = https://github.com/psolymos/clickrup
 [submodule "cure4insect"]
 	path = cure4insect
 	url = https://github.com/ABbiodiversity/cure4insect
+[submodule "dclone"]
+	path = dclone
+	url = https://github.com/datacloning/dclone
+[submodule "dcmle"]
+	path = dcmle
+	url = https://github.com/datacloning/dcmle
+[submodule "deps"]
+	path = deps
+	url = https://github.com/analythium/deps
+[submodule "detect"]
+	path = detect
+	url = https://github.com/psolymos/detect
+[submodule "intrval"]
+	path = intrval
+	url = https://github.com/psolymos/intrval
+[submodule "lhreg"]
+	path = lhreg
+	url = https://github.com/borealbirds/lhreg
+[submodule "mefa"]
+	path = mefa
+	url = https://github.com/psolymos/mefa
+[submodule "mefa4"]
+	path = mefa4
+	url = https://github.com/psolymos/mefa4
+[submodule "moosecounter"]
+	path = moosecounter
+	url = https://github.com/psolymos/moosecounter
+[submodule "opticut"]
+	path = opticut
+	url = https://github.com/psolymos/opticut
+[submodule "paired"]
+	path = paired
+	url = https://github.com/borealbirds/paired
+[submodule "pbapply"]
+	path = pbapply
+	url = https://github.com/psolymos/pbapply
+[submodule "rconfig"]
+	path = rconfig
+	url = https://github.com/analythium/rconfig
+[submodule "sharx"]
+	path = sharx
+	url = https://github.com/psolymos/sharx
+[submodule "vegan"]
+	path = vegan
+	url = https://github.com/vegandevs/vegan
