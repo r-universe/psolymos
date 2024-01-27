@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/psolymos/universe
+	url = https://github.com/psolymos/psolymos.r-universe.dev
 	branch = HEAD
 [submodule "EDMAinR"]
 	path = EDMAinR
