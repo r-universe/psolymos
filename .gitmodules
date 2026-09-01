@@ -20,9 +20,6 @@
 [submodule "WildLift"]
 	path = WildLift
 	url = https://github.com/psolymos/WildLift
-[submodule "abmidata"]
-	path = abmidata
-	url = https://github.com/ABbiodiversity/abmidata
 [submodule "allinone"]
 	path = allinone
 	url = https://github.com/ABbiodiversity/allinone
@@ -77,6 +74,12 @@
 [submodule "rconfig"]
 	path = rconfig
 	url = https://github.com/analythium/rconfig
+[submodule "sdmEvalToolCore"]
+	path = sdmEvalToolCore
+	url = https://github.com/LandSciTech/sdmEvaluationTool/sdmEvalToolCore
+[submodule "sdmEvalToolUI"]
+	path = sdmEvalToolUI
+	url = https://github.com/LandSciTech/sdmEvaluationTool/sdmEvalToolUI
 [submodule "sharx"]
 	path = sharx
 	url = https://github.com/psolymos/sharx
