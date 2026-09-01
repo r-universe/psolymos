@@ -76,10 +76,12 @@
 	url = https://github.com/analythium/rconfig
 [submodule "sdmEvalToolCore"]
 	path = sdmEvalToolCore
-	url = https://github.com/LandSciTech/sdmEvaluationTool/sdmEvalToolCore
+	url = https://github.com/LandSciTech/sdmEvaluationTool
+	subdir = sdmEvalToolCore
 [submodule "sdmEvalToolUI"]
 	path = sdmEvalToolUI
-	url = https://github.com/LandSciTech/sdmEvaluationTool/sdmEvalToolUI
+	url = https://github.com/LandSciTech/sdmEvaluationTool
+	subdir = sdmEvalToolUI
 [submodule "sharx"]
 	path = sharx
 	url = https://github.com/psolymos/sharx
